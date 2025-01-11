@@ -26,7 +26,7 @@ Here's a walkthrough of implemented features:
 ![Demo](https://github.com/AustinHarrisonnn/web102_prework/blob/main/lab02.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with LiceCap 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -34,7 +34,9 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had a lot of trouble with the destructuring in order to create the new element to display
+the most funded and 2nd most funded games at first, but I later saw I had incorrectly named
+the displayStr constant.
 
 ## License
 
